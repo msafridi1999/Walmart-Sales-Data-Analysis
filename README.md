@@ -1,6 +1,14 @@
-# Walmart Sales Data Analysis: End-to-End SQL + Python Project P-9
+# Walmart Sales Data Analysis: End-to-End SQL + Python + Power BI Dashboard — Project P-9
 
-This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
+This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data.
+
+_ **Python (Pandas)** was used for data cleaning and preprocessing.
+
+_**SQL** was applied for advanced querying to answer real-world business questions.
+
+_**Power BI Dashboard** was built to visualize the insights interactively, including KPIs, sales trends, category analysis, branch performance, payment preferences, and profit analysis.
+
+This project is ideal for aspiring Data Analysts looking to strengthen skills in data manipulation, SQL querying, and dashboard creation — turning raw data into actionable insights for decision-making.
 
 ## Project Steps
 
